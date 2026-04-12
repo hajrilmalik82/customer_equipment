@@ -10,3 +10,4 @@ class EquipmentService(models.Model):
     description = fields.Text(string='Deskripsi')
     cost = fields.Float(string='Biaya')
     technician = fields.Char(string='Nama Teknisi')
+    #test
